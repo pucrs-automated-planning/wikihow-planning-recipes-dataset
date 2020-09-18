@@ -2,7 +2,7 @@
 
 In this repository you will find all necessary scripts to generate WikiHow Recipes Dataset.
 
-We provide a [file list](./wikihow_recipes_url.txt) of which files compose our dataset version, in case you want to reproduce or compare your results over this dataset with other experiments.
+We provide a [file list](./wikihow-recipes-url.txt) of which files compose our dataset version, in case you want to reproduce or compare your results over this dataset with other experiments.
 
 ### Requirements
 
