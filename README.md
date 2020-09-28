@@ -30,6 +30,21 @@ year = {2020}
 }
 ```
 
+You can also cite the dataset directly via zenodo:
+```Bibtex
+@dataset{mauricio_steinert_2020_4056933,
+  author       = {Maurício Steinert and
+                  Felipe Meneguzzi},
+  title        = {{WikiHow Planning recipes Dataset: Code companion for KEPS 2020}},
+  month        = sep,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {keps-2020},
+  doi          = {10.5281/zenodo.4056933},
+  url          = {https://doi.org/10.5281/zenodo.4056933}
+}
+```
+
 ### Issues
 
 * If you have network connectivity problems, just re-run the script pointing to the same destination directory, and download will resume from the point where it stopped.
