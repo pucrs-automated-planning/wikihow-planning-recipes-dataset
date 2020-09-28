@@ -1,6 +1,6 @@
 # wikihow-planning-recipes-dataset
 
-In this repository you will find all necessary scripts to generate the WikiHow Recipes Dataset. We used this dataset to evaluate our work published in the [KEPS@ICAPS 2020 Workshop](https://icaps20subpages.icaps-conference.org/workshops/keps/).
+In this repository you will find all necessary scripts to generate the WikiHow Recipes Dataset. We used this dataset to evaluate our work published in the [KEPS@ICAPS 2020 Workshop](https://icaps20subpages.icaps-conference.org/workshops/keps/) entitled **Planning Domain Generation from Natural Language Step-by-Step Instructions**.
 
 We provide a [file list](./wikihow-recipes-url.txt) of which files comprise our dataset version, in case one wants to reproduce or compare your results over this dataset with other experiments.
 
