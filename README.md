@@ -1,12 +1,12 @@
 # wikihow-planning-recipes-dataset
 
-In this repository you will find all necessary scripts to generate WikiHow Recipes Dataset.
+In this repository you will find all necessary scripts to generate the WikiHow Recipes Dataset.
 
-We provide a [file list](./wikihow-recipes-url.txt) of which files compose our dataset version, in case you want to reproduce or compare your results over this dataset with other experiments.
+We provide a [file list](./wikihow-recipes-url.txt) of which files comprise our dataset version, in case one wants to reproduce or compare your results over this dataset with other experiments.
 
 ### Requirements
 
-This script is developed in Python.3.8. We suggest that you verify [requirements.txt](./requirements.txt) file for required libraries.
+We developed all scripts using Python.3.8. The [requirements.txt](./requirements.txt) file lists all required libraries.
 
 ### Downloading
 
